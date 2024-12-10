@@ -1,0 +1,1 @@
+Patika'nın Başlangıç Seviye Frontend Web Development Patikası, CSS kursu kapsamında hazırladığım 1. Ödev 
